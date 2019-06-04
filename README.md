@@ -1,4 +1,4 @@
-OLAP-with-Sales-Analysis-using-PostgreSQL
+# OLAP-with-Sales-Analysis-using-PostgreSQL
 
 - Author: Yang Liu
 - Contact: eric.liu.249@gmail.com, yliu249@stevens.edu
